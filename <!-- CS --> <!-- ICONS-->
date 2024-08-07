@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifólio</title>
+    <!--CSS-->
+    <!--FONTS-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <!--ICONS-->
+    <script src="https://kit.fontawesome.com/0cfac09478.js" crossorigin="anonymous" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Dev.Renan</h1>
+
+        <nav>
+            <a href="https://github.com/RenanSilva1" target="_blank">
+                <i class="fa-brands fa-github"></i>
+            </a>
+            
+            <a href="https://www.facebook.com/Renanpassos15/" target="_blank">
+                <i class="fa-brands fa-facebook"></i>
+            </a>
+
+            <a href="https://www.instagram.com/renan_passos__/?locale=it_IT" target="_blank">
+                <i class="fa-brands fa-instagram"></i>
+            </a>
+        </nav>
+    </header>
+</body>
+</html>
